@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T08:47:00.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="PcjNZS-2dms4uFJqmz9a" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:48:39.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="fyqRA2feszF2UIL4AzeL" version="20.0.4" type="github">
   <diagram id="8o2Qnfvk6PU_enPhvwM6" name="Page-1">
     <mxGraphModel dx="1662" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -565,10 +565,13 @@
           <mxGeometry y="520" width="504" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idQGLdF0Wg2xkPzM2KRk-179" value="int Next(List *list)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="1532" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="idQGLdF0Wg2xkPzM2KRk-180" value="int Prev(List *list)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="1710" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="idQGLdF0Wg2xkPzM2KRk-181" value="void PrintReverse(const List *list)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1891.25" y="40" width="178.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
