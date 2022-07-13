@@ -1,5 +1,5 @@
 # Flowchart
-This is flowChart from alghrithms
+This is flowChart from algorithms
 
 # Kind of FlowChart
 1. Binary
