@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T06:53:23.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="x8dnp4wWgwHP-E58BsnK" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T06:53:31.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_o87tbT7W8wS99GQD7-U" version="20.1.1" type="github">
   <diagram id="b10VY30t-MxLH819E_9L" name="Page-1">
     <mxGraphModel dx="1662" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
         <mxCell id="KIYvaqFCTmcN8wD7x3nH-39" value="Member ScanMember(const char* message, int sw)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="KIYvaqFCTmcN8wD7x3nH-34">
           <mxGeometry y="150" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIYvaqFCTmcN8wD7x3nH-40" value="Node *p = table[key[" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KIYvaqFCTmcN8wD7x3nH-40" value="Node *p = table[key]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1086" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
